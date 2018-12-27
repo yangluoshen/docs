@@ -7,11 +7,16 @@ Welcome to yang docs's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: Linux
+   :hidden:
 
-   example
+   linux/overview
+   linux/contextswitch
 
+:doc:`linux/overview`
+    linux overview
+:doc:`linux/contextswitch`
+    context switch
 
 
 Indices and tables
